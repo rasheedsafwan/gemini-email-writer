@@ -18,8 +18,7 @@ This Chrome extension generates *intelligent* (sometimes) and context-aware emai
 ## Installation
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/gmail-ai-reply-extension.git
-   cd gmail-ai-reply-extension
+   git clone https://github.com/rasheedsafwan/gemini-email-writer.git
    ```
 
 2. **Load the Extension into Chrome**
