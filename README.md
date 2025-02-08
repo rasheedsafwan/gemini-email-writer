@@ -25,12 +25,12 @@ This Chrome extension generates *intelligent* (sometimes) and context-aware emai
 2. **Load the Extension into Chrome**
    - Open `chrome://extensions/` in your browser.
    - Enable **Developer Mode** (top-right corner).
-   - Click **Load unpacked** and select the `extension/` folder from this repo.
+   - Click **Load unpacked** and select the `email-writer-extension 2` folder from this repo.
 
 3. **Set Up the Backend**
    - Navigate to the backend directory:
      ```sh
-     cd backend
+     cd email-writer-sb
      ```
    - Build and run the Spring Boot server:
      ```sh
